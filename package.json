@@ -1,0 +1,29 @@
+{
+  "name": "module-dep-graph",
+  "version": "0.1.0",
+  "description": "Automatically track a dependency graph of all commonjs modules in an application",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lelandrichardson/module-dep-graph"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modules",
+    "module",
+    "commonjs",
+    "require",
+    "dependency",
+    "dependencies",
+    "graph",
+    "deps",
+    "import"
+  ],
+  "author": "Leland Richardson <leland.m.richardson@gmail.com>",
+  "license": "MIT"
+}
